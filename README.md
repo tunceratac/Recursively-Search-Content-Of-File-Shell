@@ -1,6 +1,6 @@
 # Recursively-Search-Content-Of-File-Shell
 
-Shell Script to recursively search the content of all files, which are located in a given directory. Before searching, your script will ask the user to enter the name of the directory and the keyword to be searched. The following steps will be done:
+Writing Shell Script to recursively search the content of all files, which are located in a given directory. Before searching, your script will ask the user to enter the name of the directory and the keyword to be searched. The following steps will be done:
 
 1. Please implement a function that creates a folder named “Found” and copies the files containing the searched keyword there.
 a) It changes file names to found _<old_file_name> (omit the angle brackets) while copying.
